@@ -1,3 +1,7 @@
+--
+-- Directly (naively) ported from example code at:
+--    https://github.com/wobine/blackboard101/blob/master/EllipticCurvesPart4-PrivateKeyToPublicKey.py
+--
 
 import Numeric (showIntAtBase)
 import Data.Char (intToDigit)
